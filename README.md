@@ -1,2 +1,1 @@
-# React_Udemy3
-Created with CodeSandbox
+# React の基本を学ぶ
