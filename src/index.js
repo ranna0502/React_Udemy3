@@ -1,5 +1,5 @@
 import ReactDom from "react-dom";
-// 他のファイルからインポート
+// 他のファイルからインポートする
 import App from "./App";
 
 ReactDom.render(<App />, document.getElementById("root"));
